@@ -4,7 +4,7 @@
 %define		extensionsdir	%(php-config --extension-dir 2>/dev/null)
 
 Summary:	%{_modname} - read rar archives
-Summary(pl.UTF-8):   %{_modname} - odczyt archiwów rar
+Summary(pl.UTF-8):	%{_modname} - odczyt archiwów rar
 Name:		php4-pecl-%{_modname}
 Version:	0.3.1
 Release:	1
